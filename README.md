@@ -1,6 +1,14 @@
 # Chameleon Autoresearch
 
---yes, claude wrote all of this. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a worthwhile thing to play with. 
+
+TLDR: I tried to get Agents to generate hypotheses and test them, rinse and repeat, Ralph-loop style (Except unlike a ralph loop, it's not really iterative improvement towards a defined goal, it's more open-ended) 
+Inspired by Terence Tao: "AI has driven the cost of idea generation to almost zero", and karpathy's autoresearc
+
+h
+--yes, claude wrote everything below. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a worthwhile thing to play with. 
+
+
+
 
 A small experiment in **autonomous scientific research**. Three coding agents
 generate hypotheses, write Python experiments, run them, interpret results, and
