@@ -1,5 +1,7 @@
 # Chameleon Autoresearch
 
+--yes, claude wrote all of this. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a worthwhile thing to play with. 
+
 A small experiment in **autonomous scientific research**. Three coding agents
 generate hypotheses, write Python experiments, run them, interpret results, and
 commit findings — concurrently and without human input — while a fourth agent
