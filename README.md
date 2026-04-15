@@ -10,7 +10,7 @@ Preliminary results are... mixed. It can generate ideas and test them, but they'
 Feels like a chemistry undergrad kind of level of research
 
 
---yes, claude wrote everything below. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a worthwhile thing to play with. 
+--yes, claude wrote everything below. And there may or may not be a ton of mistakes--I could not oversee everything, I have a day job doing synthesis. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a kinda cool thing to play with. 
 
 
 
