@@ -7,7 +7,7 @@ Inspired by Terence Tao: "AI has driven the cost of idea generation to almost ze
 
 Preliminary results are... mixed. It can generate ideas and test them, but they're not amazing? Anyway, it hasn't really found anything good. 
 
-Feels like a chemistry undergrad randomly fiddling around
+Feels like a chemistry undergrad kind of level of research
 
 
 --yes, claude wrote everything below. I won't apologize for the slop, however, the ideas are my own, and I think autonomous computational chemistry is a worthwhile thing to play with. 
