@@ -1,0 +1,2 @@
+Step 1: Opening file
+Step 2: Created molecule with 3 atoms

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "protac_1",
+    "n_atoms": 65,
+    "rotatable_bonds": 21,
+    "ether_count": 11,
+    "lipophilicity_proxy": 0.2923076923076923,
+    "linker_polarity": 0.48148148148148145,
+    "label": "CHAM"
+  },
+  {
+    "name": "protac_2",
+    "n_atoms": 62,
+    "rotatable_bonds": 17,
+    "ether_count": 11,
+    "lipophilicity_proxy": 0.3064516129032258,
+    "linker_polarity": 0.5416666666666666,
+    "label": "CHAM"
+  },
+  {
+    "name": "protac_3",
+    "n_atoms": 62,
+    "rotatable_bonds": 17,
+    "ether_count": 10,
+    "lipophilicity_proxy": 0.2903225806451613,
+    "linker_polarity": 0.5,
+    "label": "NON"
+  }
+]

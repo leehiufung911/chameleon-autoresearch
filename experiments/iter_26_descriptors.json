@@ -1,0 +1,492 @@
+[
+  {
+    "name": "cyclosporinA",
+    "smiles": "CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "cyclosporinH",
+    "smiles": "CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "mean_dihedral_pref": -0.04772727272727268,
+    "ether_dihedrals": 19,
+    "alkyl_dihedrals": 47,
+    "ether_ratio": 0.2878787878787879,
+    "alkyl_ratio": 0.7121212121212122,
+    "composite_score": -0.033484848484848465
+  },
+  {
+    "name": "sirolimus",
+    "smiles": "C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC",
+    "mean_dihedral_pref": -0.07671232876712338,
+    "ether_dihedrals": 19,
+    "alkyl_dihedrals": 54,
+    "ether_ratio": 0.2602739726027397,
+    "alkyl_ratio": 0.7397260273972602,
+    "composite_score": -0.06191780821917814
+  },
+  {
+    "name": "everolimus",
+    "smiles": "C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC",
+    "mean_dihedral_pref": -0.036363636363636466,
+    "ether_dihedrals": 23,
+    "alkyl_dihedrals": 54,
+    "ether_ratio": 0.2987012987012987,
+    "alkyl_ratio": 0.7012987012987013,
+    "composite_score": -0.0223376623376624
+  },
+  {
+    "name": "erythromycin",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O",
+    "mean_dihedral_pref": 0.11874999999999998,
+    "ether_dihedrals": 25,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.44642857142857145,
+    "alkyl_ratio": 0.5535714285714286,
+    "composite_score": 0.12982142857142856
+  },
+  {
+    "name": "clarithromycin",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O",
+    "mean_dihedral_pref": 0.14830508474576265,
+    "ether_dihedrals": 28,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.4745762711864407,
+    "alkyl_ratio": 0.5254237288135594,
+    "composite_score": 0.15881355932203384
+  },
+  {
+    "name": "azithromycin",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O",
+    "mean_dihedral_pref": 0.16470588235294112,
+    "ether_dihedrals": 25,
+    "alkyl_dihedrals": 26,
+    "ether_ratio": 0.49019607843137253,
+    "alkyl_ratio": 0.5098039215686274,
+    "composite_score": 0.1749019607843137
+  },
+  {
+    "name": "roxithromycin",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](/C(=N/OCOCCOC)/[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O",
+    "mean_dihedral_pref": 0.14830508474576265,
+    "ether_dihedrals": 28,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.4745762711864407,
+    "alkyl_ratio": 0.5254237288135594,
+    "composite_score": 0.15881355932203384
+  },
+  {
+    "name": "fidaxomicin",
+    "smiles": "CC[C@H]1/C=C(/[C@H](C/C=C/C=C(/C(=O)O[C@@H](C/C=C(/C=C(/[C@@H]1O[C@H]2[C@H]([C@H]([C@@H](C(O2)(C)C)OC(=O)C(C)C)O)O)\\C)\\C)[C@@H](C)O)\\CO[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)OC(=O)C4=C(C(=C(C(=C4O)Cl)O)Cl)CC)O)OC)O)\\C",
+    "mean_dihedral_pref": 0.09074074074074068,
+    "ether_dihedrals": 34,
+    "alkyl_dihedrals": 47,
+    "ether_ratio": 0.41975308641975306,
+    "alkyl_ratio": 0.5802469135802469,
+    "composite_score": 0.10234567901234562
+  },
+  {
+    "name": "saquinavir",
+    "smiles": "CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@H]([C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O",
+    "mean_dihedral_pref": -0.34999999999999976,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 39,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.32999999999999985
+  },
+  {
+    "name": "lopinavir",
+    "smiles": "CC1=C(C(=CC=C1)C)OCC(=O)N[C@@H](CC2=CC=CC=C2)[C@H](C[C@H](CC3=CC=CC=C3)NC(=O)[C@H](C(C)C)N4CCCNC4=O)O",
+    "mean_dihedral_pref": -0.2475609756097559,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 37,
+    "ether_ratio": 0.0975609756097561,
+    "alkyl_ratio": 0.9024390243902439,
+    "composite_score": -0.22951219512195112
+  },
+  {
+    "name": "ritonavir",
+    "smiles": "CC(C)C1=NC(=CS1)CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC2=CC=CC=C2)C[C@@H]([C@H](CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O",
+    "mean_dihedral_pref": -0.3124999999999999,
+    "ether_dihedrals": 1,
+    "alkyl_dihedrals": 27,
+    "ether_ratio": 0.03571428571428571,
+    "alkyl_ratio": 0.9642857142857143,
+    "composite_score": -0.29321428571428565
+  },
+  {
+    "name": "nelfinavir",
+    "smiles": "CC1=C(C=CC=C1O)C(=O)N[C@@H](CSC2=CC=CC=C2)[C@@H](CN3C[C@H]4CCCC[C@H]4C[C@H]3C(=O)NC(C)(C)C)O",
+    "mean_dihedral_pref": -0.3499999999999998,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 32,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.32999999999999985
+  },
+  {
+    "name": "atazanavir",
+    "smiles": "CC(C)(C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@H](CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)[C@H](C(C)(C)C)NC(=O)OC)O)NC(=O)OC",
+    "mean_dihedral_pref": -0.3499999999999998,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 33,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.32999999999999985
+  },
+  {
+    "name": "darunavir",
+    "smiles": "CC(C)CN(C[C@H]([C@H](CC1=CC=CC=C1)NC(=O)O[C@H]2CO[C@@H]3[C@H]2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N",
+    "mean_dihedral_pref": -0.09655172413793091,
+    "ether_dihedrals": 7,
+    "alkyl_dihedrals": 22,
+    "ether_ratio": 0.2413793103448276,
+    "alkyl_ratio": 0.7586206896551724,
+    "composite_score": -0.0813793103448275
+  },
+  {
+    "name": "indinavir",
+    "smiles": "CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@H](C[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H]3[C@@H](CC4=CC=CC=C34)O)O)CC5=CN=CC=C5",
+    "mean_dihedral_pref": -0.3499999999999998,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 35,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.32999999999999985
+  },
+  {
+    "name": "telaprevir",
+    "smiles": "CCC[C@@H](C(=O)C(=O)NC1CC1)NC(=O)[C@@H]2[C@H]3CCC[C@H]3CN2C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C4CCCCC4)NC(=O)C5=NC=CN=C5",
+    "mean_dihedral_pref": -0.31718749999999984,
+    "ether_dihedrals": 1,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.03125,
+    "alkyl_ratio": 0.96875,
+    "composite_score": -0.2978124999999999
+  },
+  {
+    "name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "mean_dihedral_pref": -0.31718749999999984,
+    "ether_dihedrals": 1,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.03125,
+    "alkyl_ratio": 0.96875,
+    "composite_score": -0.2978124999999999
+  },
+  {
+    "name": "simeprevir",
+    "smiles": "CC1=C(C=CC2=C1N=C(C=C2O[C@@H]3C[C@@H]4[C@@H](C3)C(=O)N(CCCC/C=C\\[C@@H]5C[C@]5(NC4=O)C(=O)NS(=O)(=O)C6CC6)C)C7=NC(=CS7)C(C)C)OC",
+    "mean_dihedral_pref": -0.22142857142857125,
+    "ether_dihedrals": 6,
+    "alkyl_dihedrals": 43,
+    "ether_ratio": 0.12244897959183673,
+    "alkyl_ratio": 0.8775510204081632,
+    "composite_score": -0.20387755102040805
+  },
+  {
+    "name": "grazoprevir",
+    "smiles": "CC(C)(C)[C@H]1C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C[C@H]3C=C)C(=O)NS(=O)(=O)C4CC4)OC5=NC6=C(C=CC(=C6)OC)N=C5CCCCC[C@@H]7C[C@H]7OC(=O)N1",
+    "mean_dihedral_pref": -0.1790697674418603,
+    "ether_dihedrals": 7,
+    "alkyl_dihedrals": 36,
+    "ether_ratio": 0.16279069767441862,
+    "alkyl_ratio": 0.8372093023255814,
+    "composite_score": -0.16232558139534875
+  },
+  {
+    "name": "velpatasvir",
+    "smiles": "C[C@H]1CC[C@H](N1C(=O)[C@H](C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=CC5=C(C=C43)OCC6=C5C=CC(=C6)C7=CN=C(N7)[C@@H]8C[C@@H](CN8C(=O)[C@@H](C9=CC=CC=C9)NC(=O)OC)COC",
+    "mean_dihedral_pref": -0.28114754098360667,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 57,
+    "ether_ratio": 0.06557377049180328,
+    "alkyl_ratio": 0.9344262295081968,
+    "composite_score": -0.2624590163934427
+  },
+  {
+    "name": "nilotinib",
+    "smiles": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "aspirin",
+    "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+    "mean_dihedral_pref": -0.0636363636363637,
+    "ether_dihedrals": 3,
+    "alkyl_dihedrals": 8,
+    "ether_ratio": 0.2727272727272727,
+    "alkyl_ratio": 0.7272727272727273,
+    "composite_score": -0.04909090909090913
+  },
+  {
+    "name": "ibuprofen",
+    "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 18,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "mean_dihedral_pref": -0.35000000000000003,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 6,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.33
+  },
+  {
+    "name": "caffeine",
+    "smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
+    "mean_dihedral_pref": 0.0,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 0,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 0.0,
+    "composite_score": 0.0
+  },
+  {
+    "name": "diazepam",
+    "smiles": "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 20,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "warfarin",
+    "smiles": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+    "mean_dihedral_pref": -0.25735294117647045,
+    "ether_dihedrals": 3,
+    "alkyl_dihedrals": 31,
+    "ether_ratio": 0.08823529411764706,
+    "alkyl_ratio": 0.9117647058823529,
+    "composite_score": -0.23911764705882343
+  },
+  {
+    "name": "atenolol",
+    "smiles": "CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O",
+    "mean_dihedral_pref": -0.050000000000000044,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 10,
+    "ether_ratio": 0.2857142857142857,
+    "alkyl_ratio": 0.7142857142857143,
+    "composite_score": -0.03571428571428574
+  },
+  {
+    "name": "metoprolol",
+    "smiles": "CC(C)NCC(COC1=CC=C(C=C1)CCOC)O",
+    "mean_dihedral_pref": -2.960594732333751e-17,
+    "ether_dihedrals": 5,
+    "alkyl_dihedrals": 10,
+    "ether_ratio": 0.3333333333333333,
+    "alkyl_ratio": 0.6666666666666666,
+    "composite_score": 0.013333333333333313
+  },
+  {
+    "name": "propranolol",
+    "smiles": "CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O",
+    "mean_dihedral_pref": -0.159090909090909,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 18,
+    "ether_ratio": 0.18181818181818182,
+    "alkyl_ratio": 0.8181818181818182,
+    "composite_score": -0.14272727272727267
+  },
+  {
+    "name": "atorvastatin",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4",
+    "mean_dihedral_pref": -0.34999999999999976,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 42,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.32999999999999985
+  },
+  {
+    "name": "simvastatin",
+    "smiles": "CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C",
+    "mean_dihedral_pref": -0.1999999999999998,
+    "ether_dihedrals": 6,
+    "alkyl_dihedrals": 36,
+    "ether_ratio": 0.14285714285714285,
+    "alkyl_ratio": 0.8571428571428571,
+    "composite_score": -0.18285714285714272
+  },
+  {
+    "name": "amlodipine",
+    "smiles": "CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN",
+    "mean_dihedral_pref": -0.1689655172413792,
+    "ether_dihedrals": 5,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.1724137931034483,
+    "alkyl_ratio": 0.8275862068965517,
+    "composite_score": -0.15241379310344821
+  },
+  {
+    "name": "nifedipine",
+    "smiles": "CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC",
+    "mean_dihedral_pref": -0.2692307692307691,
+    "ether_dihedrals": 2,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.07692307692307693,
+    "alkyl_ratio": 0.9230769230769231,
+    "composite_score": -0.2507692307692307
+  },
+  {
+    "name": "erlotinib",
+    "smiles": "COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC",
+    "mean_dihedral_pref": 0.04827586206896562,
+    "ether_dihedrals": 11,
+    "alkyl_dihedrals": 18,
+    "ether_ratio": 0.3793103448275862,
+    "alkyl_ratio": 0.6206896551724138,
+    "composite_score": 0.06068965517241384
+  },
+  {
+    "name": "gefitinib",
+    "smiles": "COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4",
+    "mean_dihedral_pref": 0.031818181818181863,
+    "ether_dihedrals": 8,
+    "alkyl_dihedrals": 14,
+    "ether_ratio": 0.36363636363636365,
+    "alkyl_ratio": 0.6363636363636364,
+    "composite_score": 0.04454545454545457
+  },
+  {
+    "name": "imatinib",
+    "smiles": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 24,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "dasatinib",
+    "smiles": "CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO",
+    "mean_dihedral_pref": -0.35000000000000003,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 8,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.33
+  },
+  {
+    "name": "sunitinib",
+    "smiles": "CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\\2/C3=C(C=CC(=C3)F)NC2=O)C",
+    "mean_dihedral_pref": -0.34999999999999987,
+    "ether_dihedrals": 0,
+    "alkyl_dihedrals": 23,
+    "ether_ratio": 0.0,
+    "alkyl_ratio": 1.0,
+    "composite_score": -0.3299999999999999
+  },
+  {
+    "name": "vancomycin",
+    "smiles": "C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)(C)N)O",
+    "mean_dihedral_pref": -0.051470588235294504,
+    "ether_dihedrals": 29,
+    "alkyl_dihedrals": 73,
+    "ether_ratio": 0.28431372549019607,
+    "alkyl_ratio": 0.7156862745098039,
+    "composite_score": -0.037156862745098274
+  },
+  {
+    "name": "doxorubicin",
+    "smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O",
+    "mean_dihedral_pref": -0.1574999999999999,
+    "ether_dihedrals": 11,
+    "alkyl_dihedrals": 49,
+    "ether_ratio": 0.18333333333333332,
+    "alkyl_ratio": 0.8166666666666667,
+    "composite_score": -0.1411666666666666
+  },
+  {
+    "name": "MZ1",
+    "smiles": "Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)COCCOCCOCCNC(=O)C[C@@H]2N=C(c3ccc(Cl)cc3)c3c(sc(C)c3C)-n3c(C)nnc32)C(C)(C)C)cc1",
+    "mean_dihedral_pref": -0.14456521739130415,
+    "ether_dihedrals": 9,
+    "alkyl_dihedrals": 37,
+    "ether_ratio": 0.1956521739130435,
+    "alkyl_ratio": 0.8043478260869565,
+    "composite_score": -0.1284782608695651
+  },
+  {
+    "name": "dBET1",
+    "smiles": "O=C(NCCCCNC(COC1=CC=CC(C(N2C(CC3)C(NC3=O)=O)=O)=C1C2=O)=O)C[C@H]4C5=NN=C(C)N5C6=C(C(C)=C(C)S6)C(C7=CC=C(Cl)C=C7)=N4",
+    "mean_dihedral_pref": -0.2364864864864863,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 33,
+    "ether_ratio": 0.10810810810810811,
+    "alkyl_ratio": 0.8918918918918919,
+    "composite_score": -0.21864864864864852
+  },
+  {
+    "name": "dBET6",
+    "smiles": "CC1=C(SC2=C1C(=NC(C3=NN=C(N32)C)CC(=O)NCCCCCCCCNC(=O)COC4=CC=CC5=C4C(=O)N(C5=O)C6CCC(=O)NC6=O)C7=CC=C(C=C7)Cl)C",
+    "mean_dihedral_pref": -0.2475609756097559,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 37,
+    "ether_ratio": 0.0975609756097561,
+    "alkyl_ratio": 0.9024390243902439,
+    "composite_score": -0.22951219512195112
+  },
+  {
+    "name": "ARV-825",
+    "smiles": "CC1=C(SC2=C1C(=NC(C3=NN=C(N32)C)CC(=O)NC4=CC=C(C=C4)OCCOCCOCCOCCNC5=CC=CC6=C5C(=O)N(C6=O)C7CCC(=O)NC7=O)C8=CC=C(C=C8)Cl)C",
+    "mean_dihedral_pref": -0.09799999999999982,
+    "ether_dihedrals": 12,
+    "alkyl_dihedrals": 38,
+    "ether_ratio": 0.24,
+    "alkyl_ratio": 0.76,
+    "composite_score": -0.0827999999999999
+  },
+  {
+    "name": "ARV-771",
+    "smiles": "CC1=C(SC2=C1C(=NC(C3=NN=C(N32)C)CC(=O)NCCOCCCOCC(=O)NC(C(=O)N4CC(CC4C(=O)NC(C)C5=CC=C(C=C5)C6=C(N=CS6)C)O)C(C)(C)C)C7=CC=C(C=C7)Cl)C",
+    "mean_dihedral_pref": -0.230681818181818,
+    "ether_dihedrals": 5,
+    "alkyl_dihedrals": 39,
+    "ether_ratio": 0.11363636363636363,
+    "alkyl_ratio": 0.8863636363636364,
+    "composite_score": -0.21295454545454534
+  },
+  {
+    "name": "ARV-110",
+    "smiles": "FC1=CC2=C(C=C1N3CCN(CC3)CC4CCN(CC4)C5=NN=C(C=C5)C(=O)NC6CCC(CC6)OC7=CC=C(C#N)C(=C7)Cl)C(=O)N(C8CCC(=O)NC8=O)C2=O",
+    "mean_dihedral_pref": -0.2364864864864863,
+    "ether_dihedrals": 4,
+    "alkyl_dihedrals": 33,
+    "ether_ratio": 0.10810810810810811,
+    "alkyl_ratio": 0.8918918918918919,
+    "composite_score": -0.21864864864864852
+  }
+]

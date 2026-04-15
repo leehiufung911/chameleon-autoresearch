@@ -1,0 +1,62 @@
+======================================================================
+ITERATION 24: Molecular Spectral Flexibility Index
+Graph spectral analysis from solid-state physics
+======================================================================
+
+Working directory: C:\Users\mic23\prototype-embed\chameleon-research-loop
+Script location: C:\Users\mic23\prototype-embed\chameleon-research-loop\experiments
+USER PROTAC ANALYSIS
+--------------------------------------------------
+
+protac_1:
+  Spectral width: 3017.4010
+  Spectral gap: 0.0112
+  Flexibility index: 158.810577
+  Rotatable bonds: 18
+
+protac_2:
+  Spectral width: 2275.7823
+  Spectral gap: 0.0145
+  Flexibility index: 162.555875
+  Rotatable bonds: 13
+
+protac_3:
+  Spectral width: 2267.3918
+  Spectral gap: 0.0135
+  Flexibility index: 161.956554
+  Rotatable bonds: 13
+
+==================================================
+PROTAC COMPARISON
+==================================================
+
+Chameleonic avg (protac_1/2):
+  Flexibility index: 160.683226
+  Spectral width: 2646.5916
+
+Non-chameleonic (protac_3):
+  Flexibility index: 161.956554
+  Spectral width: 2267.3918
+
+Difference: -1.273328
+
+>> SUCCESS: Non-chameleonic protac_3 shows HIGHER flexibility
+
+==================================================
+BENCHMARK ANALYSIS
+==================================================
+
+Descriptors saved to experiments/iter_24_descriptors.json
+
+==================================================
+PHYSICAL INTERPRETATION
+==================================================
+This method borrows from normal mode analysis in protein dynamics.
+The spectral width measures the range of vibrational modes.
+
+- High spectral width + high flexibility index: Very floppy
+- Moderate values: Structured flexibility (chameleonic)
+- Low values: Rigid, limited flexibility
+
+Chameleonic molecules should show MODERATE values - enough flexibility
+to access distinct states, but not so floppy that they never stay folded.

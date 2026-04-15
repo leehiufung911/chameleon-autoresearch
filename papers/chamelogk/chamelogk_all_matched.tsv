@@ -1,0 +1,52 @@
+name	smiles	chamelogk	label	class	subclass
+Gefitinib-based PROTAC 3	COC1=CC2=NC=NC(NC3=CC=C(F)C(Cl)=C3)=C2C=C1OCCCCCOCCOCCC(=O)N[C@H](C(=O)N1C[C@H](O)C[C@H]1C(=O)NCC1=CC=C(C2=C(C)N=CS2)C=C1)C(C)(C)C	1.36	chameleonic	bRo5	PROTAC
+CisMZ1	CC1=C(C2=C(N3C(C)=NN=C3[C@@H](N=C2C4=CC=C(C=C4)Cl)CC(NCCOCCOCCOCC(N[C@@H](C(C)(C)C)C(N5C[C@H](C[C@H]5C(NCC6=CC=C(C7=C(N=CS7)C)C=C6)=O)O)=O)=O)=O)S1)C	1.27	chameleonic	bRo5	PROTAC
+BRD4 degrader AT1	CC1=C(C)SC2=C1C(C3=CC=C(Cl)C=C3)=N[C@@H](CC(NCCCCCCSC(C)(C)[C@H](NC(C)=O)C(N4[C@@H](C[C@@H](O)C4)C(NCC5=CC=C(C6=C(C)N=CS6)C=C5)=O)=O)=O)C7=NN=C(C)N27	1.26	chameleonic	bRo5	PROTAC
+Cyclosporine	C/C=C/C[C@H]([C@@H](O)[C@@]1(N(C)C([C@]([H])(C(C)C)N(C)C([C@H](CC(C)C)N(C)C([C@]([H])(CC(C)C)N(C)C([C@@H](C)NC([C@H](C)NC([C@@H](N(C([C@@]([H])(NC([C@@H](N(C(CN(C([C@@H](NC1=O)CC)=O)C)=O)C)CC(C)C)=O)C(C)C)=O)C)CC(C)C)=O)=O)=O)=O)=O)=O)[H])C	1.25	chameleonic	bRo5	Macrocycle
+MZP-54	CC(=O)N1C2=CC=C(C3=CC=C(C(=O)NCCOCCOCCOCC(=O)N[C@H](C(=O)N4C[C@H](O)C[C@H]4C(=O)NCC4=CC=C(C5=C(C)N=CS5)C=C4)C(C)(C)C)C=C3)C=C2[C@H](NC2=CC=C(Cl)C=C2)C[C@@H]1C	1.18	chameleonic	bRo5	PROTAC
+MZ1	CC1=C(C2=CC=C(CNC(=O)[C@@H]3C[C@@H](O)CN3C(=O)[C@@H](NC(=O)COCCOCCOCCNC(=O)C[C@@H]3N=C(C4=CC=C(Cl)C=C4)C4=C(SC(C)=C4C)N4C(C)=NN=C34)C(C)(C)C)C=C2)SC=N1	1.15	chameleonic	bRo5	PROTAC
+PROTAC-1	CC([C@H](NC(COCCOCCNC(COC1=CC=2N=CN=C(C2N=C1)C1CCN(CC1)C(C1=CC=C(C=C1)OC(F)(F)F)=O)=O)=O)C(=O)N1[C@@H](C[C@H](C1)O)C(=O)NCC1=CC=C(C=C1)C1=C(N=CS1)C)(C)C	1.07	chameleonic	bRo5	PROTAC
+CRBN-6-5-5-VHL	CC1=C(C2=CC=C(CNC(=O)[C@@H]3C[C@@H](O)CN3C(=O)[C@@H](NC(=O)CCCCOCCCCCOCCCCCCNC3=CC=CC4=C3C(=O)N(C3CCC(=O)NC3=O)C4=O)C(C)(C)C)C=C2)SC=N1	1.05	chameleonic	bRo5	PROTAC
+BI-0319	COC1=CC(C(=O)NCCOCCOCCOCC(=O)N[C@H](C(=O)N2C[C@H](O)C[C@H]2C(=O)NCC2=CC=C(C3=C(C)N=CS3)C=C2)C(C)(C)C)=CC=C1NC1=NC=C(C(F)(F)F)C(OC2=CC=CC3=C2C(=O)CC3)=N1	0.99	chameleonic	bRo5	PROTAC
+PROTAC Mcl degrader-1	O=C(CCCCC(=O)NCCN1C(=O)C2=CC=CC3=C(SC4=CC=C(Br)C=C4)C=CC(=C23)C1=O)NCCCCCCNC1=CC=CC2=C1C(=O)N(C1CCC(=O)NC1=O)C2=O	0.93	chameleonic	bRo5	PROTAC
+dBET6	O=C(NCCCCCCCCNC(COC1=CC=CC(C(N2C(CC3)C(NC3=O)=O)=O)=C1C2=O)=O)C[C@H]4C5=NN=C(C)N5C6=C(C(C)=C(C)S6)C(C7=CC=C(Cl)C=C7)=N4	0.86	chameleonic	bRo5	PROTAC
+PROTAC BET Degrader-10	O=C(NCCCCCC(NCC1=CC=CC(C(N2C(CC3)C(NC3=O)=O)=O)=C1C2=O)=O)C[C@H]4C5=NN=C(C)N5C6=C(C(C)=C(C)S6)C(C7=CC=C(Cl)C=C7)=N4	0.83	chameleonic	bRo5	PROTAC
+dBET1	O=C(NCCCCNC(COC1=CC=CC(C(N2C(CC3)C(NC3=O)=O)=O)=C1C2=O)=O)C[C@H]4C5=NN=C(C)N5C6=C(C(C)=C(C)S6)C(C7=CC=C(Cl)C=C7)=N4	0.8	chameleonic	bRo5	PROTAC
+PROTAC FAK degrader 1	N1([C@@H](C[C@H](C1)O)C(=O)NCc2ccc(cc2)-c3scnc3C)C(=O)[C@H](C(C)(C)C)NC(=O)CCOCCOc4ccc(cc4)Nc5nc(c(cn5)C(F)(F)F)NCc6cccc(c6)N(S(=O)(=O)C)C	0.79	chameleonic	bRo5	PROTAC
+Nelfinavir	CC(C)(C)NC([C@H]1N(C[C@H]([C@H](CSc2ccccc2)NC(c2c(C)c(O)ccc2)=O)O)C[C@@H](CCCC2)[C@@H]2C1)=O	0.74	chameleonic	bRo5	Non-macrocycle
+ARV-825	CC1=C(C)C2=C(S1)N1C(C)=NN=C1[C@H](CC(=O)NC1=CC=C(OCCOCCOCCOCCNC3=CC=CC4=C3C(=O)N(C3CCC(=O)NC3=O)C4=O)C=C1)N=C2C1=CC=C(Cl)C=C1	0.72	chameleonic	bRo5	PROTAC
+Clotrimazole	ClC1=CC=CC=C1C(N2C=CN=C2)(C3=CC=CC=C3)C4=CC=CC=C4	0.71	chameleonic	Ro5	Classic Ro5
+BI-4206	COC1=CC(=CC=C1NC1=NC(OC2=C3C(=O)CCC3=CC=C2)=C(C=N1)C(F)(F)F)C(=O)NCCOCCOCCOCC(=O)N[C@H](C(=O)N1C[C@@H](O)C[C@H]1C(=O)NCC1=CC=C(C=C1)C1=C(C)N=CS1)C(C)(C)C	0.7	chameleonic	bRo5	PROTAC
+dBET57	CC1=C(C)C2=C(S1)N1C(C)=NN=C1[C@H](CC(=O)NCCNC1=CC=CC3=C1C(=O)N(C1CCC(=O)NC1=O)C3=O)N=C2C1=CC=C(Cl)C=C1	0.68	chameleonic	bRo5	PROTAC
+Cis-phenol-VH032 (S,S,S)	CC(=O)N[C@H](C(=O)N1C[C@@H](O)C[C@H]1C(=O)NCC1=C(O)C=C(C=C1)C1=C(C)N=CS1)C(C)(C)C	0.65	chameleonic	Ro5	E3 Ligand
+ZXH-3-26	COC(=O)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C2=C(SC(C(=O)NCCCCCNC3=CC=CC4=C3C(=O)N(C3CCC(=O)NC3=O)C4=O)=C2C)N2C(C)=NN=C12	0.65	chameleonic	bRo5	PROTAC
+OTX-015	Cc1c(sc-2c1C(=N[C@H](c3n2c(nn3)C)CC(=O)Nc4ccc(cc4)O)c5ccc(cc5)Cl)C	0.64	chameleonic	Ro5	Warhead
+CPI203	CC1=C(SC2=C1C(=NC(C3=NN=C(N32)C)CC(=O)N)C4=CC=C(C=C4)Cl)C	0.54	non-chameleonic	Ro5	Warhead
+BI-3663	COC1=CC(C(=O)NCCOCCOCCOCCC(=O)NC2=CC=CC3=C2C(=O)N(C2CCC(=O)NC2=O)C3=O)=CC=C1NC1=NC=C(C(F)(F)F)C(OC2=CC=CC3=C2C(=O)CC3)=N1	0.5	non-chameleonic	bRo5	PROTAC
+OH-VH298 (S,R,S)	CC1=C(SC=N1)C2=CC(=C(C=C2)CNC(=O)[C@@H]3C[C@H](CN3C(=O)[C@H](C(C)(C)C)NC(=O)C4(CC4)C#N)O)O	0.48	non-chameleonic	Ro5	E3 Ligand
+Bifonazole	C1=CC=C(C=C1)C2=CC=C(C=C2)C(C3=CC=CC=C3)N4C=CN=C4	0.45	non-chameleonic	Ro5	Classic Ro5
+Cis-OH-VH298 (S,S,S)	CC1=C(SC=N1)C1=CC(O)=C(CNC(=O)[C@@H]2C[C@H](O)CN2C(=O)[C@@H](NC(=O)C2(CC2)C#N)C(C)(C)C)C=C1	0.45	non-chameleonic	Ro5	E3 Ligand
+Everolimus	O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](OCCO)CC4)OC)C)=O)=O	0.45	non-chameleonic	bRo5	Macrocycle
+Diethylstilbestrol	OC1=CC=C(/C(CC)=C(CC)/C2=CC=C(O)C=C2)C=C1	0.44	non-chameleonic	Ro5	Classic Ro5
+Pimecrolimus	CC[C@@H]1/C=C(/C[C@@H](C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC1=O)O)C)/C(=C/[C@@H]4CC[C@@H]([C@@H](C4)OC)Cl)/C)O)C)OC)OC)C)\C	0.43	non-chameleonic	bRo5	Macrocycle
+Phenol-VH032 (S,R,S)	CC1=C(C2=CC=C(C(O)=C2)CNC([C@@H]3C[C@H](CN3C([C@H](C(C)(C)C)NC(C)=O)=O)O)=O)SC=N1	0.37	non-chameleonic	Ro5	E3 Ligand
+Atazanavir	CC(C)(C)[C@@H](C(N[C@@H](Cc1ccccc1)[C@H](CN(Cc(cc1)ccc1-c1ncccc1)NC([C@H](C(C)(C)C)NC(OC)=O)=O)O)=O)NC(OC)=O	0.33	non-chameleonic	bRo5	Non-macrocycle
+Diazepam	CN1c2ccc(cc2C(=NCC1=O)c3ccccc3)Cl	0.3	non-chameleonic	Ro5	Classic Ro5
+MS-417	O=C(OC)C[C@H]1C2=NN=C(C)N2C3=C(C(C)=C(C)S3)C(C4=CC=C(Cl)C=C4)=N1	0.29	non-chameleonic	Ro5	Warhead
+Sirolimus	O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](O)CC4)OC)C)=O)=O	0.25	non-chameleonic	bRo5	Macrocycle
+4-F-thalidomide	FC1=CC=CC2=C1C(=O)N(C1CCC(=O)NC1=O)C2=O	0.23	non-chameleonic	Ro5	E3 Ligand
+Temsirolimus	O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](OC(C(C)(CO)CO)=O)CC4)OC)C)=O)=O	0.23	non-chameleonic	bRo5	Macrocycle
+BI-0115	CCCN1C2=C(NC3=C(C=CC(Cl)=C3)C1=O)N=CC=C2	0.19	non-chameleonic	Ro5	Warhead
+Phenol	c1ccc(cc1)O	0.16	non-chameleonic	Ro5	Classic Ro5
+HJB97	O=C(C1=NC(NC2=CC(C3CC3)=NN2CC)=C4C(NC5=C4C=C(OC)C(C6=C(C)ON=C6C)=C5)=N1)NC	0.15	non-chameleonic	Ro5	Warhead
+Paclitaxel	O=C(C1=CC=CC=C1)N[C@@H](C2=CC=CC=C2)[C@H](C(O[C@@H]3C(C)=C([C@@H](OC(C)=O)C([C@@]4(C)[C@]([C@@](CO5)(OC(C)=O)[C@@]5([H])C[C@@H]4O)([H])[C@@H]6OC(C7=CC=CC=C7)=O)=O)C(C)(C)[C@@]6(O)C3)=O)O	0.15	non-chameleonic	bRo5	Non-macrocycle
+3-Bromoquinoline	C1=CC=C2C(=C1)C=C(C=N2)Br	0.13	non-chameleonic	Ro5	Classic Ro5
+Hydrocortisone	C[C@@]1([C@@]2(O)C(CO)=O)[C@](CC2)([H])[C@@](CCC3=CC4=O)([H])[C@]([C@]3(CC4)C)([H])[C@@H](O)C1	0.1	non-chameleonic	Ro5	Classic Ro5
+BI-1580	CCN1C2=C(NC3=C(C=C(C)C=C3)C1=O)N=CC=C2	0.1	non-chameleonic	Ro5	Warhead
+Toluene	Cc1ccccc1	0.06	non-chameleonic	Ro5	Classic Ro5
+Naphthalene	c1ccc2ccccc2c1	0.02	non-chameleonic	Ro5	Classic Ro5
+Pomalidomide	NC1=CC=CC2=C1C(=O)N(C1CCC(=O)NC1=O)C2=O	0.0	non-chameleonic	Ro5	E3 Ligand
+Acetophenone	CC(=O)c1ccccc1	-0.04	non-chameleonic	Ro5	Classic Ro5
+Acetone	CC(C)=O	-0.13	non-chameleonic	Ro5	Classic Ro5
+4-Hydroxy thalidomide	C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)O	-0.16	non-chameleonic	Ro5	E3 Ligand
+Hydrochlorothiazide	O=S(C1=C(Cl)C=C(C2=C1)NCNS2(=O)=O)(N)=O	-0.22	non-chameleonic	Ro5	Classic Ro5

@@ -1,0 +1,44 @@
+[
+  {
+    "ether_sites": 6,
+    "amide_sites": 2,
+    "polar_oxygens": 5,
+    "linker_ether": 4,
+    "linker_alkyl": 0,
+    "total_interactions": 15,
+    "flexibility": 41,
+    "name": "protac_1",
+    "label": "CHAM",
+    "chi_score": 0.36585365853658536,
+    "ether_preference": 4,
+    "cham_score": 2.3658536585365852
+  },
+  {
+    "ether_sites": 3,
+    "amide_sites": 2,
+    "polar_oxygens": 6,
+    "linker_ether": 2,
+    "linker_alkyl": 0,
+    "total_interactions": 13,
+    "flexibility": 38,
+    "name": "protac_2",
+    "label": "CHAM",
+    "chi_score": 0.34210526315789475,
+    "ether_preference": 2,
+    "cham_score": 1.3421052631578947
+  },
+  {
+    "ether_sites": 1,
+    "amide_sites": 2,
+    "polar_oxygens": 6,
+    "linker_ether": 0,
+    "linker_alkyl": 1,
+    "total_interactions": 11,
+    "flexibility": 39,
+    "name": "protac_3",
+    "label": "NON",
+    "chi_score": 0.28205128205128205,
+    "ether_preference": -1,
+    "cham_score": -0.21794871794871795
+  }
+]

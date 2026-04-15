@@ -1,0 +1,314 @@
+[
+  {
+    "name": "protac_1",
+    "path_entropy": 4.8614,
+    "ether_path_ratio": 0.7544,
+    "ether_fraction": 0.0769
+  },
+  {
+    "name": "protac_2",
+    "path_entropy": 4.6671,
+    "ether_path_ratio": 0.7135,
+    "ether_fraction": 0.0645
+  },
+  {
+    "name": "protac_3",
+    "path_entropy": 4.7333,
+    "ether_path_ratio": 0.6667,
+    "ether_fraction": 0.0484
+  },
+  {
+    "name": "cyclosporinA",
+    "path_entropy": 3.6807,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "cyclosporinH",
+    "path_entropy": 3.6807,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "tacrolimus",
+    "path_entropy": 3.7859,
+    "ether_path_ratio": 0.8333,
+    "ether_fraction": 0.0877
+  },
+  {
+    "name": "sirolimus",
+    "path_entropy": 3.8861,
+    "ether_path_ratio": 0.8242,
+    "ether_fraction": 0.0769
+  },
+  {
+    "name": "everolimus",
+    "path_entropy": 4.0447,
+    "ether_path_ratio": 0.8762,
+    "ether_fraction": 0.0882
+  },
+  {
+    "name": "erythromycin",
+    "path_entropy": 3.4882,
+    "ether_path_ratio": 0.9121,
+    "ether_fraction": 0.1176
+  },
+  {
+    "name": "clarithromycin",
+    "path_entropy": 3.4882,
+    "ether_path_ratio": 0.956,
+    "ether_fraction": 0.1346
+  },
+  {
+    "name": "azithromycin",
+    "path_entropy": 3.5029,
+    "ether_path_ratio": 0.9121,
+    "ether_fraction": 0.1154
+  },
+  {
+    "name": "roxithromycin",
+    "path_entropy": 3.845,
+    "ether_path_ratio": 0.9118,
+    "ether_fraction": 0.1379
+  },
+  {
+    "name": "fidaxomicin",
+    "path_entropy": 4.6265,
+    "ether_path_ratio": 0.9673,
+    "ether_fraction": 0.1111
+  },
+  {
+    "name": "saquinavir",
+    "path_entropy": 3.3351,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "lopinavir",
+    "path_entropy": 3.3855,
+    "ether_path_ratio": 0.2222,
+    "ether_fraction": 0.0217
+  },
+  {
+    "name": "ritonavir",
+    "path_entropy": 3.7285,
+    "ether_path_ratio": 0.3455,
+    "ether_fraction": 0.02
+  },
+  {
+    "name": "nelfinavir",
+    "path_entropy": 3.0464,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "atazanavir",
+    "path_entropy": 3.7922,
+    "ether_path_ratio": 0.2949,
+    "ether_fraction": 0.0392
+  },
+  {
+    "name": "darunavir",
+    "path_entropy": 3.2961,
+    "ether_path_ratio": 0.5333,
+    "ether_fraction": 0.0789
+  },
+  {
+    "name": "indinavir",
+    "path_entropy": 3.3396,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "telaprevir",
+    "path_entropy": 3.7989,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "boceprevir",
+    "path_entropy": 3.2966,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "simeprevir",
+    "path_entropy": 3.5921,
+    "ether_path_ratio": 0.5606,
+    "ether_fraction": 0.0385
+  },
+  {
+    "name": "grazoprevir",
+    "path_entropy": 3.5784,
+    "ether_path_ratio": 0.5619,
+    "ether_fraction": 0.0556
+  },
+  {
+    "name": "velpatasvir",
+    "path_entropy": 4.3466,
+    "ether_path_ratio": 0.45,
+    "ether_fraction": 0.0615
+  },
+  {
+    "name": "nilotinib",
+    "path_entropy": 3.1924,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "aspirin",
+    "path_entropy": 1.585,
+    "ether_path_ratio": 0.8333,
+    "ether_fraction": 0.0769
+  },
+  {
+    "name": "ibuprofen",
+    "path_entropy": 0.0,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "acetaminophen",
+    "path_entropy": 1.585,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "caffeine",
+    "path_entropy": 1.7819,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "diazepam",
+    "path_entropy": 0.9183,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "warfarin",
+    "path_entropy": 1.4591,
+    "ether_path_ratio": 0.5,
+    "ether_fraction": 0.0435
+  },
+  {
+    "name": "atenolol",
+    "path_entropy": 2.5219,
+    "ether_path_ratio": 0.8,
+    "ether_fraction": 0.0526
+  },
+  {
+    "name": "metoprolol",
+    "path_entropy": 2.2516,
+    "ether_path_ratio": 0.8333,
+    "ether_fraction": 0.1053
+  },
+  {
+    "name": "propranolol",
+    "path_entropy": 0.9183,
+    "ether_path_ratio": 0.6667,
+    "ether_fraction": 0.0526
+  },
+  {
+    "name": "atorvastatin",
+    "path_entropy": 2.475,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "simvastatin",
+    "path_entropy": 2.2464,
+    "ether_path_ratio": 0.9,
+    "ether_fraction": 0.0667
+  },
+  {
+    "name": "amlodipine",
+    "path_entropy": 2.8871,
+    "ether_path_ratio": 0.8571,
+    "ether_fraction": 0.1071
+  },
+  {
+    "name": "nifedipine",
+    "path_entropy": 2.0751,
+    "ether_path_ratio": 0.4643,
+    "ether_fraction": 0.08
+  },
+  {
+    "name": "erlotinib",
+    "path_entropy": 2.9152,
+    "ether_path_ratio": 0.8571,
+    "ether_fraction": 0.1379
+  },
+  {
+    "name": "gefitinib",
+    "path_entropy": 3.1057,
+    "ether_path_ratio": 0.8571,
+    "ether_fraction": 0.0968
+  },
+  {
+    "name": "imatinib",
+    "path_entropy": 3.5801,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "dasatinib",
+    "path_entropy": 3.309,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "sunitinib",
+    "path_entropy": 2.6566,
+    "ether_path_ratio": 0.0,
+    "ether_fraction": 0.0
+  },
+  {
+    "name": "vancomycin",
+    "path_entropy": 4.2656,
+    "ether_path_ratio": 0.5568,
+    "ether_fraction": 0.0594
+  },
+  {
+    "name": "doxorubicin",
+    "path_entropy": 3.3794,
+    "ether_path_ratio": 0.6667,
+    "ether_fraction": 0.0769
+  },
+  {
+    "name": "MZ1",
+    "path_entropy": 4.4875,
+    "ether_path_ratio": 0.6838,
+    "ether_fraction": 0.0435
+  },
+  {
+    "name": "dBET1",
+    "path_entropy": 4.2618,
+    "ether_path_ratio": 0.5905,
+    "ether_fraction": 0.0182
+  },
+  {
+    "name": "dBET6",
+    "path_entropy": 4.507,
+    "ether_path_ratio": 0.5905,
+    "ether_fraction": 0.0169
+  },
+  {
+    "name": "ARV-825",
+    "path_entropy": 4.7697,
+    "ether_path_ratio": 0.7353,
+    "ether_fraction": 0.0615
+  },
+  {
+    "name": "ARV-771",
+    "path_entropy": 4.4613,
+    "ether_path_ratio": 0.6417,
+    "ether_fraction": 0.0294
+  },
+  {
+    "name": "ARV-110",
+    "path_entropy": 4.601,
+    "ether_path_ratio": 0.2571,
+    "ether_fraction": 0.0172
+  }
+]

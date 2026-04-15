@@ -1,0 +1,113 @@
+======================================================================
+ITERATION 20: Contact Number Entropy Analysis
+======================================================================
+
+Hypothesis: Chameleonic molecules have high topological
+contact number entropy (bimodal distributions) while
+non-chameleonic molecules have low entropy (unimodal).
+
+----------------------------------------------------------------------
+USER PROTACS ANALYSIS
+----------------------------------------------------------------------
+
+protac_1 (CHAM):
+  Contact mean: 2236.0
+  Contact range: 0.0
+  Entropy: 0.0000
+  CV: 0.0000
+  Bimodality: 0.0000
+
+protac_2 (CHAM):
+  Contact mean: 2035.0
+  Contact range: 0.0
+  Entropy: 0.0000
+  CV: 0.0000
+  Bimodality: 0.0000
+
+protac_3 (NON):
+  Contact mean: 2103.0
+  Contact range: 0.0
+  Entropy: 0.0000
+  CV: 0.0000
+  Bimodality: 0.0000
+
+----------------------------------------------------------------------
+SEPARATION ANALYSIS
+----------------------------------------------------------------------
+
+Chameleonic avg entropy: 0.0000
+Non-chameleonic entropy: 0.0000
+Difference: +0.0000
+
+Result: FAILED - Wrong ordering
+
+----------------------------------------------------------------------
+BENCHMARK ANALYSIS (49 molecules)
+----------------------------------------------------------------------
+
+Loaded 49 benchmark molecules
+
+cyclosporinA              Entropy=0.0000  CV=0.0000
+cyclosporinH              Entropy=0.0000  CV=0.0000
+tacrolimus                Entropy=0.0000  CV=0.0000
+sirolimus                 Entropy=0.0000  CV=0.0000
+everolimus                Entropy=0.0000  CV=0.0000
+erythromycin              Entropy=0.0000  CV=0.0000
+clarithromycin            Entropy=0.0000  CV=0.0000
+azithromycin              Entropy=0.0000  CV=0.0000
+roxithromycin             Entropy=0.0000  CV=0.0000
+fidaxomicin               Entropy=0.0000  CV=0.0000
+saquinavir                Entropy=0.0000  CV=0.0000
+lopinavir                 Entropy=0.0000  CV=0.0000
+ritonavir                 Entropy=0.0000  CV=0.0000
+nelfinavir                Entropy=0.0000  CV=0.0000
+atazanavir                Entropy=0.0000  CV=0.0000
+darunavir                 Entropy=0.0000  CV=0.0000
+indinavir                 Entropy=0.0000  CV=0.0000
+telaprevir                Entropy=0.0000  CV=0.0000
+boceprevir                Entropy=0.0000  CV=0.0000
+simeprevir                Entropy=0.0000  CV=0.0000
+grazoprevir               Entropy=0.0000  CV=0.0000
+velpatasvir               Entropy=0.0000  CV=0.0000
+nilotinib                 Entropy=0.0000  CV=0.0000
+aspirin                   Entropy=0.0000  CV=0.0000
+ibuprofen                 Entropy=0.0000  CV=0.0000
+acetaminophen             Entropy=0.0000  CV=0.0000
+caffeine                  Entropy=0.0000  CV=0.0000
+diazepam                  Entropy=0.0000  CV=0.0000
+warfarin                  Entropy=0.0000  CV=0.0000
+atenolol                  Entropy=0.0000  CV=0.0000
+metoprolol                Entropy=0.0000  CV=0.0000
+propranolol               Entropy=0.0000  CV=0.0000
+atorvastatin              Entropy=0.0000  CV=0.0000
+simvastatin               Entropy=0.0000  CV=0.0000
+amlodipine                Entropy=0.0000  CV=0.0000
+nifedipine                Entropy=0.0000  CV=0.0000
+erlotinib                 Entropy=0.0000  CV=0.0000
+gefitinib                 Entropy=0.0000  CV=0.0000
+imatinib                  Entropy=0.0000  CV=0.0000
+dasatinib                 Entropy=0.0000  CV=0.0000
+sunitinib                 Entropy=0.0000  CV=0.0000
+vancomycin                Entropy=0.0000  CV=0.0000
+doxorubicin               Entropy=0.0000  CV=0.0000
+MZ1                       Entropy=0.0000  CV=0.0000
+dBET1                     Entropy=0.0000  CV=0.0000
+dBET6                     Entropy=0.0000  CV=0.0000
+ARV-825                   Entropy=0.0000  CV=0.0000
+ARV-771                   Entropy=0.0000  CV=0.0000
+ARV-110                   Entropy=0.0000  CV=0.0000
+
+Successfully analyzed 49 molecules
+
+======================================================================
+PHYSICAL INTERPRETATION
+======================================================================
+
+Contact Number Entropy from Polymer Physics:
+- Nc: Count of atom pairs within topological distance cutoff
+- Entropy: Shannon entropy of Nc distribution
+- High entropy = diverse folding configurations (chameleonic)
+- Low entropy = single dominant configuration (non-chameleonic)
+
+This is a 2D topological approach from polymer physics.
+Measures 'topological folding diversity' without 3D confs.

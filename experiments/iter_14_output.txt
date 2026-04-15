@@ -1,0 +1,44 @@
+======================================================================
+Iteration 14: Unsatisfied H-Bond Donor Count
+======================================================================
+
+N_CONF = 50 per molecule
+
+Hypothesis: Lower unsatisfied HBD in compact state = more chameleonic
+(Arvinas threshold: unsatisfied HBD <= 2 for oral absorption)
+
+
+Name            Label  Total HBD  IMHB_compact Unsat HBD  Rg_min   Rg_max  
+-------------------------------------------------------------------------------------
+protac_1        CHAM   1          0.00         1.00       3.87     6.19    
+protac_2        CHAM   1          0.00         1.00       3.93     5.85    
+protac_3        NON    1          0.00         1.00       3.56     6.12    
+
+======================================================================
+Signal Analysis:
+======================================================================
+
+Mean unsatisfied HBD (Chameleonic): 1.00
+Mean unsatisfied HBD (Non-chameleonic): 1.00
+Difference: 0.00
+
+--- Arvinas Threshold Test (unsatisfied HBD <= 2) ---
+protac_1       : unsat_HBD=1.00, label=CHAM, threshold_pass=True [PASS]
+protac_2       : unsat_HBD=1.00, label=CHAM, threshold_pass=True [PASS]
+protac_3       : unsat_HBD=1.00, label=NON, threshold_pass=True [FAIL]
+
+--- PROTAC Separation ---
+protac_1 (CHAM): 1.00
+protac_2 (CHAM): 1.00
+protac_3 (NON):  1.00
+
+UNCLEAR: protac_3 unsatisfied HBD overlaps with chameleonic range
+
+======================================================================
+Summary:
+======================================================================
+Unsatisfied HBD = Total HBD - IMHB in most compact conformer
+Lower values indicate more HBDs are satisfied via IMHBs (chameleonic)
+
+Arvinas finding for oral absorption: unsatisfied HBD <= 2
+Expected for chameleonicity: similar pattern - chameleons mask HBDs

@@ -1,0 +1,65 @@
+======================================================================
+ITERATION 17: Position-Based Dynamics (PBD) for Extended Conformers
+======================================================================
+
+Hypothesis: PBD anti-collapse constraints preserve extended conformations
+that MMFF94s collapses, simulating entropic resistance to folding in
+alkyl-linked PROTACs like protac_3.
+
+
+Processing protac_1...
+  N conformers: 15
+  MMFF Rg:  10.07 +/- 1.15 A (max: 11.34)
+  PBD Rg:   10.07 +/- 1.15 A (max: 11.34)
+  Extension ratio: 1.000
+  Rg difference: +0.00 A
+
+Processing protac_2...
+  N conformers: 15
+  MMFF Rg:  8.58 +/- 0.96 A (max: 10.07)
+  PBD Rg:   8.58 +/- 0.96 A (max: 10.07)
+  Extension ratio: 1.000
+  Rg difference: +0.00 A
+
+Processing protac_3...
+  N conformers: 15
+  MMFF Rg:  8.23 +/- 1.12 A (max: 9.75)
+  PBD Rg:   8.23 +/- 1.12 A (max: 9.75)
+  Extension ratio: 1.000
+  Rg difference: +0.00 A
+
+======================================================================
+SUMMARY
+======================================================================
+
+protac_1:
+  Rg extension via PBD: +0.00 A
+  Ratio (PBD/MMFF): 1.000
+
+protac_2:
+  Rg extension via PBD: +0.00 A
+  Ratio (PBD/MMFF): 1.000
+
+protac_3:
+  Rg extension via PBD: +0.00 A
+  Ratio (PBD/MMFF): 1.000
+
+======================================================================
+PHYSICAL INTERPRETATION
+======================================================================
+
+The PBD anti-collapse constraint simulates entropic resistance to folding.
+In explicit CHCl3 solvent, alkyl linkers (protac_3) stay extended due to
+conformational entropy. In implicit solvent MMFF, they collapse.
+
+Prediction for chameleonic molecules (protac_1, protac_2):
+  - Small Rg change (already compact in both methods)
+  - Ratio near 1.0 or slightly higher
+
+Prediction for non-chameleonic alkyl-linked (protac_3):
+  - Larger Rg increase (PBD corrects MMFF collapse)
+  - Ratio > 1.0 (PBD maintains extended conformers)
+
+Key insight: If PBD makes protac_3 more extended while keeping
+protac_1/2 similar, then constraint-based physics is a valid
+alternative to full explicit-solvent MD.

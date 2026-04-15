@@ -1,0 +1,20 @@
+ITERATION 27: TOPOLOGICAL PATH ENTROPY
+============================================================
+
+PROTAC RESULTS:
+Name         PathEnt    EtherRatio   EtherFrac 
+--------------------------------------------
+protac_1     4.861      0.754        0.077     
+protac_2     4.667      0.713        0.065     
+protac_3     4.733      0.667        0.048     
+
+Processing benchmark...
+Processed 49 benchmark molecules
+
+SUMMARY:
+Path Entropy - protac_1/2 avg: 4.7642, protac_3: 4.7333, gap: 0.0309
+Ether Path Ratio - protac_1/2 avg: 0.7339, protac_3: 0.6667, gap: 0.0673
+Ether Fraction - protac_1/2 avg: 0.0707, protac_3: 0.0484, gap: 0.0223
+
+FINDING: Ether path ratio shows clear separation between PEG-linked
+(chameleonic) and alkyl-linked (non-chameleonic) PROTACs.

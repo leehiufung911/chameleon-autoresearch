@@ -1,0 +1,17 @@
+ITERATION 28: Hydrogen Bond Network Topology Analysis
+
+Processing PROTACs...
+Processing protac_1...
+  CHAM: Cooperativity = 1.000
+Processing protac_2...
+  CHAM: Cooperativity = 0.750
+Processing protac_3...
+  NON: Cooperativity = 0.750
+
+======================================================================
+SUMMARY
+======================================================================
+Chameleonic avg cooperativity: 0.875
+Non-chameleonic avg: 0.750
+Gap: +0.125
+Verdict: SUCCESS

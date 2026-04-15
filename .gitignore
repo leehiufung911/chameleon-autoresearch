@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.claude/
+.opencode/
+logs/*.log
+experiments/*.png
+experiments/*.csv
+experiments/*.pkl
+
+# Swarm runtime state
+.agents.pids
+monitor/.monitor.pid
+monitor/STOP
+monitor/monitor_runner.log
+monitor/logs/
+claims/active/*
+claims/done/*
+!claims/active/.gitkeep
+!claims/done/.gitkeep

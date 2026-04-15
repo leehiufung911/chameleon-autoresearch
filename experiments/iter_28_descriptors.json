@@ -1,0 +1,317 @@
+[
+  {
+    "name": "cyclosporinA",
+    "mean_max_component": 2.3333333333333335,
+    "mean_components": 4.066666666666666,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.46052631578947373
+  },
+  {
+    "name": "cyclosporinH",
+    "mean_max_component": 2.2,
+    "mean_components": 4.133333333333334,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.42857142857142855
+  },
+  {
+    "name": "tacrolimus",
+    "mean_max_component": 2.6,
+    "mean_components": 1.2,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.1818181818181817
+  },
+  {
+    "name": "sirolimus",
+    "mean_max_component": 2.2,
+    "mean_components": 1.1333333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.03125
+  },
+  {
+    "name": "everolimus",
+    "mean_max_component": 2.4,
+    "mean_components": 1.1333333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.125
+  },
+  {
+    "name": "erythromycin",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "clarithromycin",
+    "mean_max_component": 2.4,
+    "mean_components": 1.2,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0909090909090908
+  },
+  {
+    "name": "azithromycin",
+    "mean_max_component": 2.1,
+    "mean_components": 1.4,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.8750000000000001
+  },
+  {
+    "name": "roxithromycin",
+    "mean_max_component": 2.0,
+    "mean_components": 1.2222222222222223,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.8999999999999999
+  },
+  {
+    "name": "fidaxomicin",
+    "mean_max_component": 2.090909090909091,
+    "mean_components": 1.2727272727272727,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.92
+  },
+  {
+    "name": "saquinavir",
+    "mean_max_component": 2.4,
+    "mean_components": 3.8,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.5
+  },
+  {
+    "name": "lopinavir",
+    "mean_max_component": 2.933333333333333,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.7333333333333333
+  },
+  {
+    "name": "ritonavir",
+    "mean_max_component": 3.3333333333333335,
+    "mean_components": 2.8666666666666667,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.8620689655172414
+  },
+  {
+    "name": "nelfinavir",
+    "mean_max_component": 2.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6666666666666666
+  },
+  {
+    "name": "atazanavir",
+    "mean_max_component": 4.357142857142857,
+    "mean_components": 3.357142857142857,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.9999999999999998
+  },
+  {
+    "name": "darunavir",
+    "mean_max_component": 3.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.5
+  },
+  {
+    "name": "indinavir",
+    "mean_max_component": 2.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6666666666666666
+  },
+  {
+    "name": "telaprevir",
+    "mean_max_component": 3.1333333333333333,
+    "mean_components": 3.6,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6811594202898551
+  },
+  {
+    "name": "boceprevir",
+    "mean_max_component": 3.8,
+    "mean_components": 2.533333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0754716981132075
+  },
+  {
+    "name": "simeprevir",
+    "mean_max_component": 2.1333333333333333,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.7111111111111111
+  },
+  {
+    "name": "grazoprevir",
+    "mean_max_component": 3.0,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.75
+  },
+  {
+    "name": "velpatasvir",
+    "mean_max_component": 3.6,
+    "mean_components": 3.933333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.7297297297297297
+  },
+  {
+    "name": "nilotinib",
+    "mean_max_component": 3.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "aspirin",
+    "mean_max_component": 2.066666666666667,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.06666666666666667,
+    "cooperativity": 1.0333333333333334
+  },
+  {
+    "name": "ibuprofen",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 1.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "acetaminophen",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "atenolol",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "atorvastatin",
+    "mean_max_component": 2.2,
+    "mean_components": 2.2666666666666666,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6734693877551021
+  },
+  {
+    "name": "simvastatin",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "erlotinib",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "gefitinib",
+    "mean_max_component": 2.0,
+    "mean_components": 1.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "imatinib",
+    "mean_max_component": 3.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "dasatinib",
+    "mean_max_component": 2.533333333333333,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.8444444444444444
+  },
+  {
+    "name": "sunitinib",
+    "mean_max_component": 2.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6666666666666666
+  },
+  {
+    "name": "vancomycin",
+    "mean_max_component": 3.533333333333333,
+    "mean_components": 7.533333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.4140625
+  },
+  {
+    "name": "doxorubicin",
+    "mean_max_component": 2.2666666666666666,
+    "mean_components": 2.533333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.6415094339622641
+  },
+  {
+    "name": "MZ1",
+    "mean_max_component": 2.8,
+    "mean_components": 2.933333333333333,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.711864406779661
+  },
+  {
+    "name": "dBET1",
+    "mean_max_component": 3.0,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.75
+  },
+  {
+    "name": "dBET6",
+    "mean_max_component": 3.0,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.75
+  },
+  {
+    "name": "ARV-825",
+    "mean_max_component": 3.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "ARV-771",
+    "mean_max_component": 2.2666666666666666,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.5666666666666667
+  },
+  {
+    "name": "ARV-110",
+    "mean_max_component": 3.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "protac_1",
+    "mean_max_component": 3.0,
+    "mean_components": 2.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 1.0
+  },
+  {
+    "name": "protac_2",
+    "mean_max_component": 3.0,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.75
+  },
+  {
+    "name": "protac_3",
+    "mean_max_component": 3.0,
+    "mean_components": 3.0,
+    "spanning_fraction": 0.0,
+    "cooperativity": 0.75
+  }
+]

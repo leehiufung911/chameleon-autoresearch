@@ -1,0 +1,36 @@
+============================================================
+ITERATION 25: Flory-Huggins Theory Analysis
+2D Polymer Physics Approach
+============================================================
+
+Hypothesis: Chameleonicity can be predicted from 2D topology
+using Flory-Huggins-inspired interaction density.
+
+
+protac_1 (CHAM):
+  Ether sites: 6
+  Amide sites: 2
+  Ether preference: 4
+  Chi score: 0.37
+  Cham score: 2.37
+
+protac_2 (CHAM):
+  Ether sites: 3
+  Amide sites: 2
+  Ether preference: 2
+  Chi score: 0.34
+  Cham score: 1.34
+
+protac_3 (NON):
+  Ether sites: 1
+  Amide sites: 2
+  Ether preference: -1
+  Chi score: 0.28
+  Cham score: -0.22
+
+============================================================
+Summary:
+============================================================
+protac_1: 2.37
+protac_2: 1.34
+protac_3: -0.22

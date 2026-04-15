@@ -1,0 +1,56 @@
+Step 1: Start Flory-Huggins Analysis
+Step 2: Loading PROTAC data...
+Step 3: Loaded 3 PROTACs
+Step 4: Computing 2D descriptors...
+
+Analyzing protac_1:
+  ether_sites: 6
+  amide_sites: 2
+  polar_oxygens: 5
+  linker_ether: 4
+  linker_alkyl: 0
+  total_interactions: 15
+  flexibility: 41
+
+Analyzing protac_2:
+  ether_sites: 3
+  amide_sites: 2
+  polar_oxygens: 6
+  linker_ether: 2
+  linker_alkyl: 0
+  total_interactions: 13
+  flexibility: 38
+
+Analyzing protac_3:
+  ether_sites: 1
+  amide_sites: 2
+  polar_oxygens: 6
+  linker_ether: 0
+  linker_alkyl: 1
+  total_interactions: 11
+  flexibility: 39
+
+Step 5: Computing Flory-Huggins-like score...
+
+Step 6: Results Summary
+============================================================
+Molecule     Label  Chi      EtherPref  ChamScore 
+------------------------------------------------------------
+protac_1     CHAM   0.37     4          2.37      
+protac_2     CHAM   0.34     2          1.34      
+protac_3     NON    0.28     -1         -0.22     
+
+Physical Interpretation:
+  Chi Score: Interaction density (higher = more folding sites)
+  Ether Preference: PEG vs alkyl linker (positive = PEG)
+  Cham Score: Combined (higher = more chameleonic)
+
+Chameleonic mean: 1.85
+Non-chameleonic mean: -0.22
+Separation: 2.07
+
+Step 7: Writing output files...
+Output written to iter_25_output.txt
+Descriptors written to iter_25_descriptors.json
+
+Done!

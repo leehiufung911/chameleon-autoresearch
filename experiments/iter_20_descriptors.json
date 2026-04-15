@@ -1,0 +1,492 @@
+[
+  {
+    "nc_mean": 5116.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "cyclosporinA"
+  },
+  {
+    "nc_mean": 5116.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "cyclosporinH"
+  },
+  {
+    "nc_mean": 3253.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "tacrolimus"
+  },
+  {
+    "nc_mean": 3444.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "sirolimus"
+  },
+  {
+    "nc_mean": 3623.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "everolimus"
+  },
+  {
+    "nc_mean": 3349.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "erythromycin"
+  },
+  {
+    "nc_mean": 3490.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "clarithromycin"
+  },
+  {
+    "nc_mean": 3571.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "azithromycin"
+  },
+  {
+    "nc_mean": 3703.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "roxithromycin"
+  },
+  {
+    "nc_mean": 3455.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "fidaxomicin"
+  },
+  {
+    "nc_mean": 2133.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "saquinavir"
+  },
+  {
+    "nc_mean": 1932.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "lopinavir"
+  },
+  {
+    "nc_mean": 1937.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "ritonavir"
+  },
+  {
+    "nc_mean": 1818.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "nelfinavir"
+  },
+  {
+    "nc_mean": 2166.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "atazanavir"
+  },
+  {
+    "nc_mean": 1464.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "darunavir"
+  },
+  {
+    "nc_mean": 1945.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "indinavir"
+  },
+  {
+    "nc_mean": 2272.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "telaprevir"
+  },
+  {
+    "nc_mean": 1732.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "boceprevir"
+  },
+  {
+    "nc_mean": 2118.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "simeprevir"
+  },
+  {
+    "nc_mean": 2310.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "grazoprevir"
+  },
+  {
+    "nc_mean": 2469.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "velpatasvir"
+  },
+  {
+    "nc_mean": 928.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "nilotinib"
+  },
+  {
+    "nc_mean": 189.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "aspirin"
+  },
+  {
+    "nc_mean": 420.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "ibuprofen"
+  },
+  {
+    "nc_mean": 167.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "acetaminophen"
+  },
+  {
+    "nc_mean": 251.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "caffeine"
+  },
+  {
+    "nc_mean": 472.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "diazepam"
+  },
+  {
+    "nc_mean": 616.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "warfarin"
+  },
+  {
+    "nc_mean": 543.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "atenolol"
+  },
+  {
+    "nc_mean": 598.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "metoprolol"
+  },
+  {
+    "nc_mean": 558.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "propranolol"
+  },
+  {
+    "nc_mean": 1650.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "atorvastatin"
+  },
+  {
+    "nc_mean": 1477.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "simvastatin"
+  },
+  {
+    "nc_mean": 986.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "amlodipine"
+  },
+  {
+    "nc_mean": 781.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "nifedipine"
+  },
+  {
+    "nc_mean": 775.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "erlotinib"
+  },
+  {
+    "nc_mean": 847.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "gefitinib"
+  },
+  {
+    "nc_mean": 1064.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "imatinib"
+  },
+  {
+    "nc_mean": 900.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "dasatinib"
+  },
+  {
+    "nc_mean": 908.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "sunitinib"
+  },
+  {
+    "nc_mean": 4443.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "vancomycin"
+  },
+  {
+    "nc_mean": 1372.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "doxorubicin"
+  },
+  {
+    "nc_mean": 2522.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "MZ1"
+  },
+  {
+    "nc_mean": 1689.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "dBET1"
+  },
+  {
+    "nc_mean": 1926.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "dBET6"
+  },
+  {
+    "nc_mean": 2001.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "ARV-825"
+  },
+  {
+    "nc_mean": 2572.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "ARV-771"
+  },
+  {
+    "nc_mean": 1866.0,
+    "nc_range": 0,
+    "nc_std": 0.0,
+    "entropy": 0.0,
+    "cv": 0.0,
+    "bimodality": 0.0,
+    "skewness": 0.0,
+    "name": "ARV-110"
+  }
+]
