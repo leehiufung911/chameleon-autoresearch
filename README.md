@@ -1,6 +1,6 @@
 # Chameleon Autoresearch
 
-Can Agents perform the scientific method?
+Can Agents perform the scientific method? (Spoiler: not very well/kinda?)
 
 TLDR: I tried to get Agents to generate hypotheses and test them, rinse and repeat, Ralph-loop style (Except unlike a ralph loop, it's not really iterative improvement towards a defined goal, it's more open-ended) 
 Inspired by Terence Tao: "AI has driven the cost of idea generation to almost zero", and karpathy's autoresearch
